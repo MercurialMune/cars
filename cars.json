@@ -261,4 +261,14 @@
 	"pk": 53,
 	"fields": {"make": "Volvo", "models": ["240","740","850","940","960","C30","C70","S40","S40 (New)","S60","S70","S80","S90","V40","V50","V70","V90","XC40","XC60","XC70","XC90"]}
 }
+,{
+	"model":"myapp.cars",
+	"pk": 54,
+	"fields": {"make": "Mobius", "models": ["Mobius I","Mobius II"]}
+}
+,{
+	"model":"myapp.cars",
+	"pk": 55,
+	"fields": {"make": "Kiira Motors", "models": ["Kiira EV","Kiira EV SMACK","Kiira EVS"]}
+}
 ]
